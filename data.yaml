@@ -1,0 +1,5 @@
+names:
+- person
+nc: 1
+train: /content/yolov5/train/images
+val: /content/yolov5/valid/images
