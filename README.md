@@ -12,3 +12,4 @@ conf_thres와 iou_thres는 모델의 하이퍼파라미터입니다.
 device는 모델을 실행할 디바이스를 설정합니다. 현재는 CPU만을 사용합니다.
 객체 검출 후 좌표를 저장할 csv 파일의 이름과 포맷을 설정합니다.
 코드 실행 중 'q'를 누르면 종료됩니다.
+![image](https://user-images.githubusercontent.com/47483492/229721633-3d01a453-399e-4388-a6f0-004e1a24610a.png)
